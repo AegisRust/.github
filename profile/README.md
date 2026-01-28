@@ -1,5 +1,8 @@
 # AegisRust Project
 
+> [!IMPORTANT]
+> 制作者の気分で開発しているため、いつ完成するかはわかりません。
+
 **High-Performance, Rust-Powered DDoS Mitigation Stack for Minecraft & Beyond.**
 
 AegisRustは、RustとeBPF(XDP)を駆使して構築された、次世代の分散型DDoS防御システムです。
